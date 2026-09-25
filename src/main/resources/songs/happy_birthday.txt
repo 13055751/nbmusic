@@ -1,0 +1,9 @@
+name 生日快乐
+tempo 105
+volume 10
+# 主旋律：风铃音色（浮冰）
+track chime CHIME
+| G4 G4 A4 G4 C5 B4@2 | G4 G4 A4 G4 D5 C5@2 | G4 G4 G5 E5 C5 B4 A4@2 | F5 F5 E5 C5 D5 C5@2 |
+# 低音：贝斯音色（木质方块）
+track bass BASS_GUITAR
+| C4@2 C4@2 F4@2 F4@2 | C4@2 C4@2 G4@2 G4@2 | C4@2 C4@2 A4@2 A4@2 | D4@2 D4@2 G4@2 G4@2 |

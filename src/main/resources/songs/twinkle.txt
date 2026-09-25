@@ -1,0 +1,11 @@
+name 小星星
+tempo 100
+volume 10
+# 主旋律：长笛音色（黏土）
+track flute
+| C4 C4 G4 G4 A4 A4 G4@2 | F4 F4 E4 E4 D4 D4 C4@2 |
+| C4 C4 G4 G4 A4 A4 G4@2 | F4 F4 E4 E4 D4 D4 C4@2 |
+# 低音伴奏：贝斯音色（木质方块）
+track bass BASS_GUITAR
+| A3@2 A3@2 B3@2 B3@2 | C4@2 C4@2 D4@2 D4@2 |
+| A3@2 A3@2 B3@2 B3@2 | C4@2 C4@2 D4@2 D4@2 |
